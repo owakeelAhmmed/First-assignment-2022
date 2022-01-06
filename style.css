@@ -269,4 +269,11 @@ i.fas.fa-chevron-right {
     left: 500px;
     margin: 30px;
 }
+.miss-t{
+    color: #ffffff;
+    font-family: 'Mea Culpa', cursive;
+}
+.miss-txt{
+    color: rgb(231, 76, 60);
+}
 /* footer-Section End */
